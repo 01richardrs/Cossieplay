@@ -1,14 +1,24 @@
-# Cossieplay
-Assignments 1 - Web Design - CP1806
+# CossiePlay
+<p align="center">
+<img alt="Main Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Main.png">
+</p>
+More Pictures provided below.
 
-Hi , This is Repository is for my Web Design Assignments 1 - Cossieplay
+This website is used for Marking Purpose for subject CP1806 Web Design.
 
-There is a few differences with the original file which is , i divide the content here to make it more neat.
-in the website at the server the file exist in the webpage folder are all moved in front so it can be easily read.
+# Website Features :
+- Website Planning and Tree View
+- Information About Cosplay
+- About Cossieplay Websites
+- CossiePlay Party Guidelines
+- CossiePlay Signup Page
+- CossiePlay Outfit Price
 
-I also got some issues that still cant be fixed and maybe takes some times but its not really necessarry issues since the webpage not going online. The issues is that some pages and my header cant moved or suit properly since its changed resolution.
-
-Disclaimer :
-I do not own any picture used , and its used only for Assigments purposed.
-
-Have a nice day :)
+# Screen Preview :
+<p align="center">
+<img width="800" height="800" alt="About Us Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Abt%20Us.png">
+<img width="800" height="800" alt="Announcements Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Annc.png">
+<img width="800" height="800" alt="Party Guidelines Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Pguideles.png">
+<img width="800" height="800" alt="Sign Up Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Signup.png">
+<img width="800" height="800" alt="Price Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Price.png">
+</p>
