@@ -16,9 +16,9 @@ This website is used for Marking Purpose for subject CP1806 Web Design.
 
 # Screen Preview :
 <p align="center">
-<img width="800" height="800" alt="About Us Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Abt%20Us.png">
-<img width="800" height="800" alt="Announcements Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Annc.png">
-<img width="800" height="800" alt="Party Guidelines Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Pguideles.png">
-<img width="800" height="800" alt="Sign Up Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Signup.png">
-<img width="800" height="800" alt="Price Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Price.png">
+<img width="500" height="500" alt="About Us Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Abt%20Us.png">
+<img width="500" height="500" alt="Announcements Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Annc.png">
+<img width="500" height="500" alt="Party Guidelines Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Pguideles.png">
+<img width="500" height="500" alt="Sign Up Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Signup.png">
+<img width="500" height="500" alt="Price Screen" src="https://github.com/01richardrs/Cossieplay/blob/master/Screen/Price.png">
 </p>
